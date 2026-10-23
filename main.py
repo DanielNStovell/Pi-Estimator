@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 GENERATION_NUMBER = 5  # Number of generations
-ITERATION_NUMBER = 10000  # Number of points generated per iteration
+ITERATION_NUMBER = 10000  # Number of points generated per generation
 
 
 def generate_point() -> float:
